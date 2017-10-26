@@ -1,0 +1,7 @@
+.bordeRedondo{
+    border-radius: 25px;
+    /*border-radius: 25px 50px 75px;*/
+    border: 2px solid #ff0012;
+    height: 50px;
+    text-align: center;
+}
