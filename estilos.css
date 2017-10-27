@@ -5,3 +5,10 @@
     height: 50px;
     text-align: center;
 }
+
+.imagenesFondo{
+    background-image: url(https://www.w3schools.com/css/img_flwr.gif), url(https://www.w3schools.com/css/paper.gif);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    height: 200px;
+}
